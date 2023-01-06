@@ -1,0 +1,7 @@
+#!/bin/sh -eu
+
+cd "$(dirname "$0")/.."
+scripts/install
+
+echo "[update] Updating db..."
+bin/rake db:migrate
