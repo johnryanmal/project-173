@@ -4,7 +4,6 @@ cd "$(dirname "$0")/.."
 scripts/update
 
 echo "[init] Setting up DB..."
-# reset database to a fresh state.
 bin/rake db:create db:reset
 
 echo "[init] App is now ready to go!"
