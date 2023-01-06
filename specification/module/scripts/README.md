@@ -1,7 +1,7 @@
 # Project-173
 [Home]: https://github.com/johnryanmal/project-173
-[Specification]: https://github.com/johnryanmal/project-173/specification
-[Module]: https://github.com/johnryanmal/project-173/specification/module
+[Specification]: https://github.com/johnryanmal/project-173/tree/main/specification
+[Module]: https://github.com/johnryanmal/project-173/tree/main/specification/module
 [Home] / [Specification] / [Module] / Scripts
 
 ### About
