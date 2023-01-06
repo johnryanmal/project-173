@@ -1,0 +1,4 @@
+#!/bin/sh -eu
+cd "$(dirname "$0")/.."
+
+ruby main.rb
