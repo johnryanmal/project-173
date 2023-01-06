@@ -2,7 +2,7 @@
 
 cd "$(dirname "$0")/.."
 
-script/bootstrap
+scripts/update
 
 echo "==> Setting up DB…"
 # reset database to a fresh state.
