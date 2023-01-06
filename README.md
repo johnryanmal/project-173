@@ -1,2 +1,2 @@
-# project-173
+# Project-173
 A personal collection of terminal tools.
